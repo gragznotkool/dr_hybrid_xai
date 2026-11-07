@@ -1,0 +1,9 @@
+streamlit>=1.35
+torch>=2.1
+torchvision>=0.16
+timm>=0.9.12
+opencv-python-headless>=4.9
+matplotlib>=3.8
+shap>=0.45
+numpy>=1.26
+Pillow>=10.0
